@@ -1,2 +1,3 @@
 Init file1:
-task description
+Integrate your ClickUp Workspace with a GitHub repository. Configure appropriate settings to add value for this type of team.
+Create at least 1 Agent inside of ClickUp that helps the Product & Engineering organization develop products or services faster.
